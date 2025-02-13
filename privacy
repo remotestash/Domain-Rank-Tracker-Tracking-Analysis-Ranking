@@ -1,0 +1,83 @@
+# Privacy Policy for Domain Rank Tracker Extension
+
+Last Updated: February 13, 2024
+
+## Introduction
+
+Domain Rank Tracker is a Chrome extension designed to track domain positions in Google search results. We are committed to protecting your privacy and being transparent about our data practices.
+
+## Data Collection and Usage
+
+### What We Collect
+
+1. **Website Content**
+   - We collect and process content from Google search result pages
+   - This is limited to the search results displayed on the page
+   - This data is processed locally within your browser
+
+2. **User Settings**
+   - Domains you choose to track
+   - These preferences are stored locally in your browser using Chrome's storage API
+
+### How We Use the Data
+
+The collected data is used solely for:
+- Displaying position numbers on search results
+- Highlighting tracked domains
+- Showing current rankings in the extension popup
+
+### Data Storage
+
+All data is stored locally on your device:
+- No data is transmitted to external servers
+- No data is stored in cloud services
+- All preferences are kept in your browser's local storage
+
+## Data Sharing and Transfer
+
+We do not:
+- Sell any user data
+- Share any information with third parties
+- Transfer data outside of your local browser
+- Use data for any purpose other than the extension's core functionality
+
+## Third-Party Services
+
+This extension:
+- Does not integrate with any third-party services
+- Does not use external analytics
+- Does not load any remote resources
+
+## User Rights and Control
+
+You have complete control over:
+- Which domains you want to track
+- When to add or remove tracked domains
+- When to clear your stored preferences
+
+## Data Security
+
+Since all data is processed and stored locally:
+- Your data remains within your browser
+- No authentication is required
+- No personal data is at risk of exposure
+
+## Changes to Privacy Policy
+
+If we make any changes to this privacy policy, we will:
+- Update the "Last Updated" date at the top
+- Post the new policy in this repository
+- Notify users through the Chrome Web Store listing
+
+## Contact
+
+For any questions about this privacy policy or the extension's privacy practices, please:
+- Open an issue in this GitHub repository
+- Contact us through the Chrome Web Store support channel
+
+## Compliance
+
+This extension:
+- Complies with Chrome Web Store Developer Program Policies
+- Uses only necessary permissions for its core functionality
+- Maintains transparency in all data handling practices
